@@ -3,3 +3,6 @@ print(keyword)    # Muestra la ruta del módulo
 print(keyword.kwlist)
 
 import this
+import hola
+
+print(hola)
